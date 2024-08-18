@@ -1,0 +1,191 @@
+{
+    "full_name": "Hamza Jafri",
+    "birth_details": {
+      "birthplace": "Karachi, Pakistan",
+      "birthdate": "2000-02-04",
+      "birth_day": "Friday"
+    },
+    "NIC": "42101-29435253",
+    "family": {
+      "father": {
+        "name": "Tariq Iqbal Haider",
+        "profession": "Businessman in Import Export"
+      },
+      "mother": {
+        "name": "Hanifa Majid",
+        "profession": "Housewife"
+      },
+      "siblings": {
+        "elder": [
+          {
+            "name": "Hassan Jafri",
+            "birthdate": "1997-06-22",
+            "profession": "Project Manager at SMB Services",
+            "future_plans": "Going to Germany for Masters in Data Science"
+          },
+          {
+            "name": "Bisma Fatima",
+            "birthdate": "1998-08-06",
+            "education": "BBA from Iqra University"
+          }
+        ],
+        "younger": [
+          {
+            "name": "Hamna Fatima",
+            "birthdate": "2006-02-12",
+            "education": "Currently doing A Levels from Highbrow"
+          }
+        ]
+      }
+    },
+    "education": {
+      "O_levels": {
+        "school": "Beaconhouse School System",
+        "year": 2018,
+        "grades": {
+          "A": 2,
+          "B": 4,
+          "C": 2,
+          "D": 1
+        }
+      },
+      "A_levels": {
+        "school": "Whales College",
+        "year": 2020,
+        "grades": {
+          "B": 1,
+          "C": 1,
+          "D": 1
+        }
+      },
+      "bachelor": {
+        "degree": "Bachelor's in AI",
+        "institution": "FAST-NUCES Karachi",
+        "graduation_year": 2024
+      }
+    },
+    "profession": "AI Engineer",
+    "interests": ["Data Science", "ML", "Data Analysis", "Generative AI"],
+    "skills": ["Python", "SQL", "APIs", "NLP", "CV", "GenAI"],
+    "favorite_things": {
+      "hobbies": ["Gyming", "Trekking", "Hiking"],
+      "travel": {
+        "places_visited": [
+          "Nanga Parbat Basecamp",
+          "K2 Basecamp",
+          "Rakaposhi Basecamp",
+          "Saiful Muluk",
+          "Blue Lake",
+          "Satrangi Lake",
+          "Attabad Lake",
+          "Lulusar Lake"
+        ],
+        "regions": ["Kashmir", "Hunza", "Skardu", "Naltar", "Swat", "Kalam"]
+      },
+      "food": ["Pizza", "Pasta", "Biryani", "Mutton", "Beef", "Ice Cream"]
+    },
+    "friends": [
+      {
+        "name": "Hadi",
+        "profession": "Web Developer"
+      },
+      {
+        "name": "Bilal",
+        "profession": "NLP Engineer"
+      },
+      {
+        "name": "Ayesha Khan",
+        "profession": "Data Scientist"
+      },
+      {
+        "name": "Rashid Ali",
+        "profession": "Machine Learning Engineer"
+      },
+      {
+        "name": "Sara Ahmed",
+        "profession": "Software Engineer"
+      },
+      {
+        "name": "Omar Farooq",
+        "profession": "Cloud Solutions Architect"
+      },
+      {
+        "name": "Nadia Khan",
+        "profession": "UI/UX Designer"
+      },
+      {
+        "name": "Ali Raza",
+        "profession": "Cybersecurity Specialist"
+      },
+      {
+        "name": "Maya Hassan",
+        "profession": "Blockchain Developer"
+      },
+      {
+        "name": "Zainab Syed",
+        "profession": "Digital Marketing Expert"
+      }
+    ],
+    "additional_info": {
+      "NIC": "42101-29435253",
+      "current_location": "Karachi, Pakistan",
+      "initial_learning": "Beaconhouse School System",
+      "A_levels_completion": "Whales College",
+      "bachelor_degree": "FAST-NUCES Karachi",
+      "favorite_books": ["1984 by George Orwell", "Sapiens by Yuval Noah Harari", "The Catcher in the Rye by J.D. Salinger", "The Alchemist by Paulo Coelho", "Educated by Tara Westover"],
+      "favorite_movies": ["Inception", "The Matrix", "Interstellar", "The Shawshank Redemption", "Parasite"],
+      "recent_projects": [
+        {
+          "name": "AI for Healthcare",
+          "description": "Developed a predictive model to assist in early diagnosis of diseases."
+        },
+        {
+          "name": "E-commerce Recommendation System",
+          "description": "Built a recommendation engine to enhance user experience on e-commerce platforms."
+        },
+        {
+          "name": "Real-time Sentiment Analysis",
+          "description": "Implemented a real-time sentiment analysis system for social media platforms."
+        },
+        {
+          "name": "Autonomous Drone Navigation",
+          "description": "Created an AI system for autonomous navigation of drones in complex environments."
+        }
+      ],
+      "tech_inspirations": [
+        "Elon Musk: For his work in AI and space exploration.",
+        "Andrew Ng: For his contributions to machine learning and online education.",
+        "Fei-Fei Li: For her work in computer vision and human-centered AI.",
+        "Jeff Dean: For his contributions to scalable machine learning systems.",
+        "Demis Hassabis: For his groundbreaking work in deep learning and AI research."
+      ],
+      "future_goals": [
+        "Contribute to cutting-edge AI research.",
+        "Start a tech startup focusing on AI innovations.",
+        "Travel to new destinations and explore diverse cultures.",
+        "Develop an AI system for environmental sustainability.",
+        "Teach AI and machine learning to underprivileged communities."
+      ],
+      "personal_achievements": [
+        "Winner of the National AI Challenge 2023",
+        "Speaker at the International Conference on Machine Learning (ICML) 2024",
+        "Volunteer at the AI for Good Foundation",
+        "Received the Young Innovator Award at TechFest 2023",
+        "Published research in the Journal of Artificial Intelligence Research"
+      ],
+      "preferred_working_style": {
+        "collaborative": "Enjoys working in team environments and brainstorming sessions.",
+        "innovative": "Likes to explore new technologies and creative solutions.",
+        "detail_oriented": "Pays attention to details and ensures high-quality results.",
+        "adaptive": "Able to quickly adjust to new technologies and methodologies.",
+        "organized": "Maintains a well-organized workflow and project documentation."
+      },
+      "hometown_story": "Karachi, the city of lights, has been a hub of culture and innovation for Hamza. Growing up here, Hamza developed a keen interest in technology and adventure, inspired by the vibrant energy and diverse experiences the city offers.",
+      "community_involvement": [
+        "Active member of the Karachi Tech Meetups, organizing events and workshops for local tech enthusiasts.",
+        "Volunteer mentor for the Coding for Kids program, teaching programming skills to young learners.",
+        "Contributor to open-source projects related to AI and machine learning."
+      ]
+    }
+  }
+  
